@@ -8,8 +8,7 @@
             <sparkle:version>42</sparkle:version>
             <sparkle:shortVersionString>1.2.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://vercel-labs.github.io/timeless-releases/Timeless_1.2.22.dmg" length="6455931" type="application/octet-stream" sparkle:edSignature="IBNrSXyWf2kPBSyGHylu2zTWid0R+Z1IIHdEO+zSKjgFo2Melkbb9e9Lx6L9RCVVAp0HRmezLYhebM/EdIPPDQ=="/>
+            <enclosure url="https://github.com/vercel-labs/timeless-releases/releases/download/v1.2.22/Timeless_1.2.22.dmg" length="6455931" type="application/octet-stream" sparkle:edSignature="IBNrSXyWf2kPBSyGHylu2zTWid0R+Z1IIHdEO+zSKjgFo2Melkbb9e9Lx6L9RCVVAp0HRmezLYhebM/EdIPPDQ=="/>
         </item>
     </channel>
 </rss>
-https://github.com/vercel-labs/timeless-releases/releases/download/v1.2.22/Timeless_1.2.22.dmg
