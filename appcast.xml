@@ -3,12 +3,12 @@
     <channel>
         <title>Timeless</title>
         <item>
-            <title>1.2.22</title>
-            <pubDate>Tue, 08 Sep 2026 19:53:28 +0530</pubDate>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>1.2.22</sparkle:shortVersionString>
+            <title>1.2.23</title>
+            <pubDate>Fri, 11 Sep 2026 19:29:00 +0530</pubDate>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.2.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vercel-labs/timeless-releases/releases/download/v1.2.22/Timeless_1.2.22.dmg" length="6455931" type="application/octet-stream" sparkle:edSignature="IBNrSXyWf2kPBSyGHylu2zTWid0R+Z1IIHdEO+zSKjgFo2Melkbb9e9Lx6L9RCVVAp0HRmezLYhebM/EdIPPDQ=="/>
+            <enclosure url="https://github.com/vercel-labs/timeless-releases/releases/download/v1.2.23/Timeless_1.2.23.dmg" length="6454959" type="application/octet-stream" sparkle:edSignature="dfV5MNNzAKRAKQB8tYiyz08o6IlKCtzhnLXO93jj9Rl9IPmA0IvN1aoBC+8bm3AH9z3KbMTX87JpEeUaM3PTDg=="/>
         </item>
     </channel>
 </rss>
